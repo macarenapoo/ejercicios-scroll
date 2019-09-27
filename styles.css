@@ -40,6 +40,10 @@ body {
     background-color: #2D2D2D;
 }
 
+.video.play {
+    background-color: greenyellow;
+}
+
 .footer {
     background-color: #ccc;
     height: 1200px;
