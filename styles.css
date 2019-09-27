@@ -1,0 +1,22 @@
+.body{
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    height: 2000px;
+    background: #212121;
+}
+
+.caja{
+    background: #737373;
+    margin: auto;
+    width: 640px;
+    height: 390px;
+}
+
+.footer{
+    height: 1200px;
+    background: #212121;
+}
